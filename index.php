@@ -9,5 +9,8 @@
 <body>
     <h1>latihan push repo</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem commodi iure quisquam voluptas dolorem quia accusantium tenetur harum quis repellat.</p>
+    <ul>
+        <li>hahah</li>
+    </ul>
 </body>
 </html>
